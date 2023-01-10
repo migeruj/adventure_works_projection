@@ -1,5 +1,5 @@
-# adventure_works_projection
-Adventure Works Data Compatible with Postgres + Historical Inflation Rates per Country
+# Adventure Works Projection OLTP
+Adventure Works Data Compatible with Postgres + Historical Inflation Rates per Country + UTF8 Encoding
 
 AdventureWorks for Postgres
 This is based off the work done by lorint and NorfolDataSci. We've already done the work to convert the csv's to be compatible with postgres. If you would like the original files, head over to Adventure Works 2014 OLTP download page. The download includes a script for loading the data into MSSQL Server.
